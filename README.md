@@ -1,5 +1,4 @@
 # sinusoid-animations / синусоидные анимации на javascript
-<br>
 <b>Youtube video:</b>
 <br>
 https://www.youtube.com/watch?v=gVPA2Thsd3Q&t=2s
